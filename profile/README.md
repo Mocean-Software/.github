@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Nothing to see :)
+Nothing to see here :)
 <!--
 **Here are some ideas to get you started:**
 
